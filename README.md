@@ -9,5 +9,14 @@ This Streamlit application takes a product name, searches for the top YouTube vi
 
 ## Installation
 1. Clone the repository
-```bash
+`bash
 git clone https://github.com/Bipin35/Youtube_Review.git
+
+## Install the required packages
+pip install -r requirements.txt
+
+## Usage
+Run the Streamlit app: streamlit run streamlit_app.py
+
+## License 
+This project is licensed under the MIT License.
